@@ -23,6 +23,7 @@ body{
     width: 80%;
     border: 5px double white;
     border-radius: 50%;
+    box-shadow: 40px 0px 20px rgb(42, 1, 137);
 }
 
 h2{
