@@ -1,5 +1,5 @@
 body{
-    background: url(pic/funny.jpg) repeat-y scroll;
+    background: url('./Pic/funny.jpg') repeat-y scroll;
     background-size:auto;
 }
 
