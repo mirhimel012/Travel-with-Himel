@@ -21,6 +21,8 @@ body{
     margin-left: auto;
     margin-right: auto;
     width: 80%;
+    border: 5px double white;
+    border-radius: 50%;
 }
 
 h2{
